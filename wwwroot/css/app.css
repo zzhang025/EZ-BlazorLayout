@@ -4,6 +4,8 @@
     --ez-dark-color: #212121;
     --ez-body-font-color: #deeefb;
     --ez-font-size: 1.1rem;
+
+    --ez-title-color: var(--cf-dark-color);
 }
 
 
